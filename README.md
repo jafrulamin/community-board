@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/jafrulamin/community-board/blob/main/VideoWalkthrough.gif`' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='VideoWalkthrough.gif`' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...
 [ScreenToGif](https://www.screentogif.com/) for Windows
