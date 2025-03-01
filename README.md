@@ -2,7 +2,7 @@
 
 Submitted by: **Jafrul Amin**
 
-This web app: **This website provides the users with essential learning to get started in their Software Engineering journey.**
+This web app: **This website provides the users with some essential learning resources to get started in their Software Engineering journey.**
 
 Time spent: **5** hours spent in total
 
@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='VideoWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/jafrulamin/community-board/blob/main/VideoWalkthrough.gif`' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...
 [ScreenToGif](https://www.screentogif.com/) for Windows
